@@ -2,13 +2,13 @@
 ### <div align="center">I'm Faysal, a Full-time Full-stack developer</div>  
   
 
-- 🔭 I’m currently working on [Android Apps Development](https://play.google.com/store/apps/dev?id=5338546810958790262)  
+- 🔭 I’m currently working on [Android Apps Development](https://play.google.com/store/apps/dev?id=5338546810958790262) & Web Development.  
   
 
 - 🌱 I’m currently learning Java & Flutter  
   
 
-- ❓ Ask me about anything related to Android Apps Development  
+- ❓ Ask me about anything related to Android Apps Development & Web Development
   
 
 - ⚡ Fun fact: I use tabs over spaces  
