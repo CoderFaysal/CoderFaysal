@@ -1,7 +1,3 @@
-<div align="center">
-<img src="https://i.ibb.co/0sLmgQx/Fahim-Faysal2.png" align="center" style="width: 20%" />
-</div>  
-  
 
 ### <div align="center">I'm Faysal, a Full-time Full-stack developer</div>  
   
